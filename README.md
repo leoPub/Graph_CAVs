@@ -1,8 +1,8 @@
 # Supplementary Code for Multi-Vehicle Collaborative Decision Making
 
-此仓库包含论文 **《[此处填写您的论文标题]》** (Chapter 2) 中关于“奖励函数梯度稀疏性验证”的仿真实验代码。
+此仓库包含论文 **《面向随机混合交通流路段通行XXXX》** (Chapter 2) 中关于“奖励函数梯度稀疏性验证”的仿真实验代码。
 
-This repository contains the simulation code for validating the "reward gradient sparsity" in Chapter 2 of the paper **"[Insert Your Paper Title Here]"**.
+This repository contains the simulation code for validating the "reward gradient sparsity" in Chapter 2 of a Ph.D Thesis.
 
 ## ⚠️ Acknowledgement & Origin (致谢与来源说明)
 
@@ -13,7 +13,4 @@ This repository contains the simulation code for validating the "reward gradient
 We sincerely appreciate the contribution of the original authors. The core simulation environment and algorithm architecture are derived from:
 
 * **Original Repository**: [https://github.com/Jacklinkk/Graph_CAVs](https://github.com/Jacklinkk/Graph_CAVs)
-* **Original Paper**: Liu, Y., et al. (2022). [Title of the original paper].
-* **Modifications**:
-    * Added data logging for reward first-order difference analysis.
-    * Conducted experiments on reward sparsity under 10 Hz decision frequency.
+
