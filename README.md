@@ -10,6 +10,7 @@ This repository contains the simulation code for validating the "reward gradient
 > **说明：** 本项目基于优秀的开源项目 **Graph_CAVs** 进行二次开发与实验验证。
 
 我们衷心感谢原作者的贡献。除了本文特有的实验代码外，核心仿真环境与基础算法架构均源自：
+
 We sincerely appreciate the contribution of the original authors. The core simulation environment and algorithm architecture are derived from:
 
 * **Original Repository**: [https://github.com/Jacklinkk/Graph_CAVs](https://github.com/Jacklinkk/Graph_CAVs)
